@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "email": "jon@jon.is",
+            "username": "Jonni",
+            "pwd": "Pass123"
+        },
+        {
+            "email": "siggi@tskoli.is",
+            "username": "Siggi",
+            "pwd": "Pass123"
+        },
+        {
+            "email": "Kalli@tskoli.is",
+            "username": "Kalli",
+            "pwd": "Pass123"
+        }
+    ]
+}
