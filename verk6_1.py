@@ -40,4 +40,4 @@ def new_user():
     password = request.forms.password
     return template('new_user', email=email, user=user, password = password)
 
-run()
+run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))
